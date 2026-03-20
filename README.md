@@ -1,2 +1,3 @@
-# micro-iot-platform-hafo
-Automated issue comment bot repository
+# Micro Iot Platform Hafo
+
+Automated issue comment bot repository.
